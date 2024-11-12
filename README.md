@@ -11,7 +11,7 @@ Customers can browse through the bakery's offerings, add items to their cart, an
 
 
 **Building Instructions**  
-1. **Clone the repository:** Run `git clone [repository URL]`.
+1. **Clone the repository:** Run `git clone https://github.com/uche-eke/BakeMate`.
 2. **Navigate to the directory:** `cd BakeMate`.
 3. **Install dependencies:** Set up required packages with `npm install`.
 4. **Configure backend:** Set up a basic backend server for order management if needed (e.g., Node.js with Express).
